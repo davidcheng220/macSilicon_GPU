@@ -1,5 +1,8 @@
-## Python Version
-``` python: 3.9.6 ```
+## Requirements:
+>* Mac computers with Apple silicon or AMD GPUs
+>* macOS 12.0 or later (Get the latest beta)
+>* Python 3.9 or later (3.9.6)
+>* Xcode command-line tools: xcode-select --install
 
 ## Create virtual environment and activate
 ``` 
