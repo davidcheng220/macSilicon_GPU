@@ -28,7 +28,7 @@ print("Num GPUs Available: ", len(tf.configlist_physical_devices('GPU')))
 #This will return "Num GPUs Available:  1" if there is GPU in your device
 ```
 ***
-# (Options) if you want to try to install the libraries with requiements.tx 
+# (Options) if you want to try to install the libraries without requiements.txt
 ## Install TensorFlow
 ``` 
 pip install tensorflow==2.14.0
